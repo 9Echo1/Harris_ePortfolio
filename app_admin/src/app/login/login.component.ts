@@ -46,7 +46,7 @@ export class LoginComponent {
   private doLogin(): void {
     let newUser = {
       name: this.credentials.name,
-      email: this.credentials.email
+      email: this.credentials.email,
     } as User;
 
     // console.log('LoginComponent::doLogin');
