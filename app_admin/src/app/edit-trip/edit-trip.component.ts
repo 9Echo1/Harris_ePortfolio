@@ -54,6 +54,8 @@ export class EditTripComponent implements OnInit {
         this.editForm.patchValue(value[0]);
         if (!value) {
           this.message = 'No Trip Retrieved!';
+        } else {
+          this.message = 'Trip: ' + tripCode + ' retrieved';
         }
         console.log(this.message);
       },
@@ -63,21 +65,22 @@ export class EditTripComponent implements OnInit {
     });
   }
 
-  public onSubmit() {
+  public onSubmit(): void {
     this.submitted = true;
-    if(this.editForm.valid) {
-      this.tripDataService.updateTrip(this.editForm.value)
-      .subscribe( {
+    if (this.editForm.valid) {
+      this.tripDataService.updateTrip(this.editForm.value).subscribe({
         next: (value: any) => {
           console.log(value);
           this.router.navigate(['']);
         },
         error: (error: any) => {
           console.log('Error: ' + error);
-        }});
+        },
+      });
     }
   }
-  // Get the form short name to access the form fields
-  get f() { return this.editForm.controls; }
-
+  // get the form short name to access the form fields
+  get f() {
+    return this.editForm.controls;
+  }
 }
