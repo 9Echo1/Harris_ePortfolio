@@ -1,5 +1,2 @@
-# SNHU Harris ePortfolio
-
-## CS465 Full Stack Development Enhancement
-
+# SNHU_Harris_ePortfolio
 An ePortfolio created for my SNHU Capstone.
