@@ -23,7 +23,7 @@ It allows users to view, manage, and interact with travel packages.
 - Artifact Narrative.docx → Explanation of project selection and enhancements
 
 ## Code Review Video
-(https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing)
+https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing
 
 ## Author
 Jonathan Harris
