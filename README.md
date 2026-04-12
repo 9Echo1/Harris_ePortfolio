@@ -19,7 +19,7 @@ The application is a full-stack web system built using MongoDB, Express.js, Angu
 - docs/ → Supporting documentation, including artifact narrative  
 
 ## Code Review Video
-https://drive.google.com/file/d/11Bzl5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing
+[https://drive.google.com/file/d/11Bzl5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing]
 
 ## Author
 Jonathan Harris
