@@ -1,4 +1,4 @@
-# SNHU Harris ePortfolio
+# SNHU Computer Science Capstone ePortfolio
 
 This repository contains my Capstone ePortfolio for SNHU's Computer Science program. It showcases enhancements made to a full-stack travel application originally developed in CS465.
 
