@@ -16,7 +16,18 @@ The application is a full-stack web system built using MongoDB, Express.js, Angu
 ## Repository Structure
 - enhanced_artifact/ → Final enhanced version of the application  
 - original_artifact/ → Original version prior to improvements  
-- docs/ → Supporting documentation, including artifact narrative  
+- docs/ → Supporting documentation, including artifact narrative
+
+## Application Screenshots
+
+### Public View
+![Public View](media/screenshots/trips-public.png)
+
+### Logged-In View
+![Logged In](media/screenshots/trips-logged-in.png)
+
+### Add/Edit Trip
+![Add Trip](media/screenshots/add-trip.png)
 
 ## Code Review Video
 [Watch Code Review Video](https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing)
