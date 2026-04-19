@@ -7,6 +7,7 @@ This portfolio showcases my capstone project and demonstrates my growth in full-
   <a href="#project-overview">Project</a>
   <a href="#artifact-enhancement-breakdown">Enhancements</a>
   <a href="#code-review">Code Review</a>
+  <a href="#documents">Supporting Documents</a>
 </div>
 
 ## Professional Self-Assessment
@@ -69,6 +70,19 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 
 ## Code Review
 [Watch Code Review Video](https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing)
+
+## Supporting Documents
+
+- [Artifact Narrative](docs/artifact_narrative.docx)
+- [Professional Self-Assessment](docs/Professional Self-Assessment.docx)
+- [Milestone Two](docs/MilestoneTwo.docx)
+- [Milestone Three](docs/MilestoneThree.docx)
+- [Milestone Four](docs/MilestoneFour.docx)
+- [Journal 2-1](docs/2-1_Journal.docx)
+- [Journal 3-1](docs/3-1_Journal.docx)
+- [Journal 4-1](docs/4-1_Journal.docx)
+- [Journal 5-1](docs/5-1_Journal.docx)
+- [Journal 6-1](docs/6-1_Journal.docx)
 
 ## Author
 Jonathan Harris  
