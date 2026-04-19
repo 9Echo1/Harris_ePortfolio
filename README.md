@@ -44,20 +44,27 @@ Together, these enhancements transformed the original application into a more co
 The following screenshots demonstrate the functionality of the enhanced application, including public access, authenticated views, and trip management features.
 
 ### **Public View**
-<a href="media/screenshots/trips-public.png">
-  <img src="media/screenshots/trips-public.png" alt="Public View" width="600"/>
-</a>
+**This view represents the publicly accessible portion of the application, where users can browse available trips without authentication. It demonstrates the baseline functionality of retrieving and displaying trip data from the backend.**
+<p align="center">
+  <a href="media/screenshots/trips-public.png">
+    <img src="media/screenshots/trips-public.png" alt="Public View" width="600"/>
+  </a>
+</p>
 
 ### **Logged-In View**
 **This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.**
-<a href="media/screenshots/trips-logged-in.png">
-  <img src="media/screenshots/trips-logged-in.png" alt="Logged In View" width="600"/>
-</a>
+<p align="center">
+  <a href="media/screenshots/trips-logged-in.png">
+    <img src="media/screenshots/trips-logged-in.png" alt="Public View" width="600"/>
+  </a>
 
 ### **Add/Edit Trip**
-<a href="media/screenshots/add-trip.png">
-  <img src="media/screenshots/add-trip.png" alt="Add Trip" width="600"/>
-</a>
+**This view demonstrates secured trip management functionality, allowing authenticated users to add and edit trip data. It highlights the integration between the frontend interface and backend API for creating and updating records in the database.**
+<p align="center">
+  <a href="media/screenshots/add-trip.png">
+    <img src="media/screenshots/add-trip.png" alt="Public View" width="600"/>
+  </a>
+
 
 ## Code Review
 [Watch Code Review Video](https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing)
