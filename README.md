@@ -20,7 +20,7 @@ This ePortfolio highlights my growth as a developer by showcasing enhancements m
 
 
 ## Project Overview
-The application is a full-stack web system built using MongoDB, Express.js, Angular, and Node.js. It allows users to view and manage travel packages, including details such as destination, duration, and pricing.
+This artifact was selected for my ePortfolio because it demonstrates my ability to work across the full stack while building on an existing foundation. It allowed me to enhance a previously developed application by introducing secure authentication, improving data handling, and refining overall system design. These improvements reflect both my technical growth and my ability to apply software engineering principles to a real-world project.
 
 
 ## Artifact Enhancement Breakdown
@@ -40,13 +40,14 @@ For the database enhancement, I improved MongoDB functionality through stronger 
 Together, these enhancements transformed the original application into a more complete and professional full-stack system. They reflect real-world priorities such as security, maintainability, and efficient data handling, while also demonstrating my growth as a developer throughout the Computer Science program.
 
 
-## Application Screenshots
+## Application Demonstration
 The following screenshots demonstrate the functionality of the enhanced application, including public access, authenticated views, and trip management features.
 
 ### Public View
 ![Public View](media/screenshots/trips-public.png)
 
 ### Logged-In View
+This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.
 ![Logged In](media/screenshots/trips-logged-in.png)
 
 ### Add/Edit Trip
@@ -56,4 +57,6 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 [Watch Code Review Video](https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing)
 
 ## Author
-Jonathan Harris
+Jonathan Harris  
+B.S. in Computer Science  
+IT Professional with a focus on Software Development
