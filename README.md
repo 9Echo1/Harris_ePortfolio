@@ -1,6 +1,3 @@
-# SNHU Computer Science Capstone ePortfolio
-
-## 🔗 Navigation
 - [Professional Self-Assessment](#-professional-self-assessment)
 - [Project Overview](#project-overview)
 - [Artifact Enhancement Breakdown](#-artifact-enhancement-breakdown)
