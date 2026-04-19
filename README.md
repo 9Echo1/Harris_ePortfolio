@@ -44,14 +44,20 @@ Together, these enhancements transformed the original application into a more co
 The following screenshots demonstrate the functionality of the enhanced application, including public access, authenticated views, and trip management features.
 
 ### **Public View**
-![Public View](media/screenshots/trips-public.png)
+<a href="media/screenshots/trips-public.png">
+  <img src="media/screenshots/trips-public.png" alt="Public View" width="600"/>
+</a>
 
 ### **Logged-In View**
 **This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.**
-![Logged In](media/screenshots/trips-logged-in.png)
+<a href="media/screenshots/trips-logged-in.png">
+  <img src="media/screenshots/trips-logged-in.png" alt="Logged In View" width="600"/>
+</a>
 
 ### **Add/Edit Trip**
-![Add Trip](media/screenshots/add-trip.png)
+<a href="media/screenshots/add-trip.png">
+  <img src="media/screenshots/add-trip.png" alt="Add Trip" width="600"/>
+</a>
 
 ## Code Review
 [Watch Code Review Video](https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing)
