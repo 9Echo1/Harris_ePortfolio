@@ -18,14 +18,27 @@ During my academic program, I developed skills in full-stack development, databa
 
 This ePortfolio highlights my growth as a developer by showcasing enhancements made to a full-stack web application. These improvements reflect my ability to apply software engineering principles, implement secure systems, and design solutions that align with real-world needs.
 
+
 ## Project Overview
 The application is a full-stack web system built using MongoDB, Express.js, Angular, and Node.js. It allows users to view and manage travel packages, including details such as destination, duration, and pricing.
 
+
 ## Artifact Enhancement Breakdown
-- Implemented JWT-based authentication for secure user access  
-- Improved API structure and overall application organization  
-- Enhanced database functionality and validation  
-- Added filtering, searching, and sorting for trip data  
+
+This artifact was selected because it provided a strong full-stack foundation that could be enhanced across software design and engineering, algorithms and data structures, and databases. The original project already supported core trip management features, which made it a good candidate for demonstrating growth through security, usability, and backend improvements.
+
+### Software Design and Engineering
+For the software design and engineering enhancement, I improved the structure and security of the application by implementing JWT-based authentication for protected access. I also improved the communication between the Angular frontend and the Express backend, resulting in a more organized and maintainable application design. These changes demonstrate secure system design, better separation of responsibilities, and improved full-stack integration.
+
+### Algorithms and Data Structures
+For the algorithms and data structures enhancement, I added filtering, searching, and sorting functionality for trip data. These improvements allow the application to return more useful and efficient results based on user needs. This enhancement demonstrates how algorithmic logic can improve usability and support better handling of application data.
+
+### Databases
+For the database enhancement, I improved MongoDB functionality through stronger schema validation and better handling of trip data. These updates improved data consistency and strengthened the overall reliability of the application. This enhancement demonstrates growth in database design, validation, and backend data management.
+
+### Why These Enhancements Matter
+Together, these enhancements transformed the original application into a more complete and professional full-stack system. They reflect real-world priorities such as security, maintainability, and efficient data handling, while also demonstrating my growth as a developer throughout the Computer Science program.
+
 
 ## Application Screenshots
 The following screenshots demonstrate the functionality of the enhanced application, including public access, authenticated views, and trip management features.
