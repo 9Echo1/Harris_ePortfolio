@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Quick link buttons */
+.quick-links {
+  margin: 1rem 0 1.5rem 0;
+}
+
+.quick-links a {
+  display: inline-block;
+  margin: 0.3rem 0.35rem 0.3rem 0;
+  padding: 0.55rem 0.9rem;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid #d0d7de;
+}
+
+/* Individual colors */
+.quick-links a:nth-child(1) {
+  background: #e8f0fe;
+}
+
+.quick-links a:nth-child(2) {
+  background: #eaf7ea;
+}
+
+.quick-links a:nth-child(3) {
+  background: #fff4e5;
+}
+
+.quick-links a:nth-child(4) {
+  background: #f3e8ff;
+}
+
+.quick-links a:hover {
+  filter: brightness(0.97);
+  text-decoration: none;
+}
