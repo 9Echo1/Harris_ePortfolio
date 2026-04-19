@@ -74,7 +74,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 ## Supporting Documents
 
 - [Artifact Narrative](docs/artifact_narrative.docx)
-- [Professional Self-Assessment](docs/Professional Self-Assessment.docx)
+- [Professional Self-Assessment](docs/Professional_Self-Assessment.docx)
 - [Milestone Two](docs/MilestoneTwo.docx)
 - [Milestone Three](docs/MilestoneThree.docx)
 - [Milestone Four](docs/MilestoneFour.docx)
