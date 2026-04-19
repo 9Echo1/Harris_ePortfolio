@@ -1,4 +1,8 @@
-**Quick Links:**  
+# Jonathan Harris  
+### Computer Science Capstone ePortfolio  
+
+This portfolio showcases my capstone project and demonstrates my growth in full-stack development, software engineering, and database design. The work presented reflects practical, real-world improvements focused on security, usability, and system design.
+
 <div class="quick-links">
   <a href="#professional-self-assessment">Self-Assessment</a>
   <a href="#project-overview">Project</a>
