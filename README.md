@@ -57,6 +57,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
   <a href="media/screenshots/trips-logged-in.png">
     <img src="media/screenshots/trips-logged-in.png" alt="Public View" width="600"/>
   </a>
+</p>
 
 ### **Add/Edit Trip**
 **This view demonstrates secured trip management functionality, allowing authenticated users to add and edit trip data. It highlights the integration between the frontend interface and backend API for creating and updating records in the database.**
@@ -64,7 +65,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
   <a href="media/screenshots/add-trip.png">
     <img src="media/screenshots/add-trip.png" alt="Public View" width="600"/>
   </a>
-
+</p>
 
 ## Code Review
 [Watch Code Review Video](https://drive.google.com/file/d/11BzI5ACGvns91VQyWdrRiCKziUaAEe38/view?usp=sharing)
