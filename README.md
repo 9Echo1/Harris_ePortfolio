@@ -34,7 +34,7 @@ For the software design and engineering enhancement, I improved the structure an
 For the algorithms and data structures enhancement, I added filtering, searching, and sorting functionality for trip data. These improvements allow the application to return more useful and efficient results based on user needs. This enhancement demonstrates how algorithmic logic can improve usability and support better handling of application data.
 
 ### Databases
-For the database enhancement, I improved MongoDB functionality through stronger schema validation and better handling of trip data. These updates improved data consistency and strengthened the overall reliability of the application. This enhancement demonstrates growth in database design, validation, and backend data management.
+For the database enhancement, I improved MongoDB functionality through stronger schema validation and better handling of trip data. These updates improved data consistency and overall application reliability. This enhancement demonstrates growth in database design, validation, and backend data management.
 
 ### Why These Enhancements Matter
 Together, these enhancements transformed the original application into a more complete and professional full-stack system. They reflect real-world priorities such as security, maintainability, and efficient data handling, while also demonstrating my growth as a developer throughout the Computer Science program.
@@ -43,14 +43,14 @@ Together, these enhancements transformed the original application into a more co
 ## Application Demonstration
 The following screenshots demonstrate the functionality of the enhanced application, including public access, authenticated views, and trip management features.
 
-### Public View
+### **Public View**
 ![Public View](media/screenshots/trips-public.png)
 
-### Logged-In View
-This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.
+### **Logged-In View**
+**This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.
 ![Logged In](media/screenshots/trips-logged-in.png)
 
-### Add/Edit Trip
+### **Add/Edit Trip**
 ![Add Trip](media/screenshots/add-trip.png)
 
 ## Code Review
