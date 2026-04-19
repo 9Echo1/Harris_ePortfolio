@@ -1,4 +1,8 @@
-# SNHU Computer Science Capstone ePortfolio
+**Quick Links:**  
+[Self-Assessment](#professional-self-assessment) | 
+[Project](#project-overview) | 
+[Enhancements](#artifact-enhancement-breakdown) | 
+[Code Review](#code-review)
 
 This repository contains my Capstone ePortfolio for SNHU's Computer Science program. It showcases enhancements made to a full-stack travel application originally developed in CS465.
 
