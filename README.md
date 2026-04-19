@@ -46,6 +46,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 
 ### **Public View**
 **This view represents the publicly accessible portion of the application, where users can browse available trips without authentication. It demonstrates the baseline functionality of retrieving and displaying trip data from the backend.**
+
 <p align="center">
   <a href="media/screenshots/trips-public.png">
     <img src="media/screenshots/trips-public.png" alt="Public View" width="600"/>
@@ -53,6 +54,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 </p>
 
 ### **Logged-In View**
+
 **This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.**
 <p align="center">
   <a href="media/screenshots/trips-logged-in.png">
@@ -61,6 +63,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 </p>
 
 ### **Add/Edit Trip**
+
 **This view demonstrates secured trip management functionality, allowing authenticated users to add and edit trip data. It highlights the integration between the frontend interface and backend API for creating and updating records in the database.**
 <p align="center">
   <a href="media/screenshots/add-trip.png">
@@ -74,7 +77,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 ## Supporting Documents
 
 - [Artifact Narrative](docs/artifact_narrative.docx)
-- [Professional Self-Assessment](docs/Professional_Self-Assessment.docx)
+- [Professional Self-Assessment](docs/Professional_Self_Assessment.docx)
 - [Milestone Two](docs/MilestoneTwo.docx)
 - [Milestone Three](docs/MilestoneThree.docx)
 - [Milestone Four](docs/MilestoneFour.docx)
