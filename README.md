@@ -47,7 +47,7 @@ The following screenshots demonstrate the functionality of the enhanced applicat
 ![Public View](media/screenshots/trips-public.png)
 
 ### **Logged-In View**
-**This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.
+**This view demonstrates the implementation of JWT-based authentication, where only authenticated users are able to access and modify trip data.**
 ![Logged In](media/screenshots/trips-logged-in.png)
 
 ### **Add/Edit Trip**
