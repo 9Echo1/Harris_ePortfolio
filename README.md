@@ -3,11 +3,11 @@
 This portfolio showcases my capstone project and demonstrates my growth in full-stack development, software engineering, and database design. The work presented reflects practical, real-world improvements focused on security, usability, and system design.
 
 <div class="quick-links">
-  <a href="#professional-self-assessment">Self-Assessment</a>
-  <a href="#project-overview">Project</a>
-  <a href="#artifact-enhancement-breakdown">Enhancements</a>
-  <a href="#code-review">Code Review</a>
-  <a href="#documents">Supporting Documents</a>
+  <a class="link-1" href="#professional-self-assessment">Self-Assessment</a>
+  <a class="link-2" href="#project-overview">Project</a>
+  <a class="link-3" href="#artifact-enhancement-breakdown">Enhancements</a>
+  <a class="link-4" href="#code-review">Code Review</a>
+  <a class="link-5" href="#supporting-documents">Supporting Documents</a>
 </div>
 
 ## Professional Self-Assessment
